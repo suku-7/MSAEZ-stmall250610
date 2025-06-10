@@ -33,7 +33,7 @@ public class Order {
     private String status;
 
     @PrePersist
-    public void onPrePersist(){
+    public void onPrePersist() {
         setStatus("ORDER PLACED");
     }
 

@@ -51,6 +51,7 @@ public class Delivery {
         delivery.setAddress(orderPlaced.getAddress());
         delivery.setCustomerId(orderPlaced.getCustomerId());
         delivery.setItemId(orderPlaced.getItemId());
+        delivery.setQty(orderPlaced.getQty());
         delivery.setStatus("DELIVERY COMPLETED");
         repository().save(delivery);
 
