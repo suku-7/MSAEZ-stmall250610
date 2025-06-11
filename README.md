@@ -1,3 +1,6 @@
+# 12stmall (order - delivery - product 주문 처리 연동)
+https://labs.msaez.io/#/189596125/storming/09a408b2fc1593ce174cd486230faca8
+
 ![스크린샷 2025-06-10 133848](https://github.com/user-attachments/assets/56a6b476-2197-467f-bf52-ddd1e9e7c530)
 
 ![스크린샷 2025-06-10 211303](https://github.com/user-attachments/assets/59394368-8f63-4fa2-b8ce-8b38c02c4761)
@@ -5,11 +8,6 @@
 ![스크린샷 2025-06-10 211335](https://github.com/user-attachments/assets/7faa78c1-c6d6-4ec1-8922-9d8c38ef7e71)
 ![스크린샷 2025-06-10 211227](https://github.com/user-attachments/assets/f2f0ee8b-bd79-417f-9258-a6a6f2d673de)
 ![스크린샷 2025-06-10 211347](https://github.com/user-attachments/assets/6d3d5826-ed58-4568-bb62-0b9e56f2bc32)
-
-# 
-
-## Model
-www.msaez.io/#/courses/cna-full/2c7ffd60-3a9c-11f0-833f-b38345d437ae/event-design
 
 ## Before Running Services
 ### Make sure there is a Kafka server running
